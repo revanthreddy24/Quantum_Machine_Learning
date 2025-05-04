@@ -45,9 +45,11 @@ This repository contains the presentation slides from my talk on **Quantum Machi
 
 
 
+
 ## 🧠 Research Highlight
 
 > A case study exploring **Quantum vs Classical ML models** for **breast cancer detection**, showcasing QML's potential in healthcare.
+
 
 
 
@@ -57,15 +59,18 @@ This repository contains the presentation slides from my talk on **Quantum Machi
 
 
 
+
 ## 🙏 Acknowledgements
 
 Special thanks to **Prof. Edward Deveny** for his continuous guidance in the field of **Quantum Computing**.
 
 
 
+
 ## 📌 Quote from the Presentation
 
 > “Think of quantum ML like early spaceflight—we’re still building the equivalent of propeller planes, but one day we’ll have quantum ‘jet engines’.”
+
 
 
 
@@ -76,7 +81,7 @@ Special thanks to **Prof. Edward Deveny** for his continuous guidance in the fie
 - Email: [revanthme24@gmail.com]
 
 
----
+
 
 ## ⭐ If you found this interesting, give the repo a star and share!
 
