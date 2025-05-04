@@ -55,7 +55,7 @@ This repository contains the presentation slides from my talk on **Quantum Machi
 
 ## 📽️ Access the Presentation
 
-[Download Slides (PPTX)](./Revanth_Reddy_Kanubaddi.pptx)
+[Download Slides (PPTX)](https://github.com/revanthreddy24/Quantum_Machine_Learning/blob/main/Revanth_Reddy_Kanubaddi.pptx)
 
 
 
