@@ -6,13 +6,12 @@
 📅 **April 30, 2025**  
 🧠 With guidance from **Prof. Edward Deveny**
 
----
+
 
 ## 📌 Overview
 
 This repository contains the presentation slides from my talk on **Quantum Machine Learning (QML)**—delivered at Bridgewater State University's **Student Arts & Research Symposium (StARS)**. The presentation was designed to make cutting-edge concepts in quantum computing and AI accessible to both technical and non-technical audiences.
 
----
 
 ## 🎯 Presentation Goals
 
@@ -22,7 +21,7 @@ This repository contains the presentation slides from my talk on **Quantum Machi
 - Showcase **real-world applications** such as cancer detection, climate science, and finance
 - Demonstrate a **research project comparing Classical ML vs QML** for breast cancer detection
 
----
+
 
 ## 🧪 Key Topics Covered
 
@@ -35,7 +34,7 @@ This repository contains the presentation slides from my talk on **Quantum Machi
 - **Current Challenges (Hardware, Noise, Scalability)**  
 - **The Million-Qubit Dream and NISQ Era**  
 
----
+
 
 ## 🧬 Real-World Use Cases for QML
 
@@ -44,31 +43,31 @@ This repository contains the presentation slides from my talk on **Quantum Machi
 - **💰 Finance**: Secure fraud detection & quantum encryption
 - **🤖 AI**: Smarter models that require less training data
 
----
+
 
 ## 🧠 Research Highlight
 
 > A case study exploring **Quantum vs Classical ML models** for **breast cancer detection**, showcasing QML's potential in healthcare.
 
----
+
 
 ## 📽️ Access the Presentation
 
 [Download Slides (PPTX)](./Revanth_Reddy_Kanubaddi.pptx)
 
----
+
 
 ## 🙏 Acknowledgements
 
 Special thanks to **Prof. Edward Deveny** for his continuous guidance in the field of **Quantum Computing**.
 
----
+
 
 ## 📌 Quote from the Presentation
 
 > “Think of quantum ML like early spaceflight—we’re still building the equivalent of propeller planes, but one day we’ll have quantum ‘jet engines’.”
 
----
+
 
 ## 📬 Connect with Me
 
@@ -76,7 +75,18 @@ Special thanks to **Prof. Edward Deveny** for his continuous guidance in the fie
 - [GitHub](https://github.com/revanthreddy24)
 - Email: [revanthme24@gmail.com]
 
+
 ---
 
-## 📁 Repository Structure
+## ⭐ If you found this interesting, give the repo a star and share!
+
+```
+
+Feel free to ⭐ the repository and share it with anyone interested in the future of AI and Quantum Computing!
+
+---
+
+
+
+
 
